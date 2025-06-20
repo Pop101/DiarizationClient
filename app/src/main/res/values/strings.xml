@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Socket Audio</string>
+    <string name="title_setup">Setup</string>
+    <string name="title_record">Record</string>
+    <string name="title_settings">Settings</string>
+    <string name="transcript_placeholder">Transcript</string>
+    <string name="transcript_title">Transcript</string>
+    <string name="status_ready">Ready to record</string>
+    <string name="status_recording">Recording in progress...</string>
+    <string name="dummy_transcript">Speaker A: Hello, how are you?\nSpeaker B: I\'m good, thanks!\nSpeaker A: Let\'s start the meeting.</string>
+    <string name="transcript_expand">Expand or collapse transcript</string>
+</resources>

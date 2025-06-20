@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Recording state (selected) -->
+    <item android:state_selected="true">
+        <shape android:shape="oval">
+            <gradient android:type="linear" android:angle="270" android:startColor="@color/secondary" android:endColor="@color/primary" />
+            <size android:width="200dp" android:height="200dp" />
+            <corners android:radius="100dp" />
+            <solid android:color="@color/secondary" />
+        </shape>
+    </item>
+
+    <!-- Pressed state -->
+    <item android:state_pressed="true">
+        <shape android:shape="oval">
+            <gradient android:type="linear" android:angle="270" android:startColor="@color/primaryVariant" android:endColor="@color/secondaryVariant" />
+            <size android:width="200dp" android:height="200dp" />
+            <corners android:radius="100dp" />
+            <solid android:color="@color/primaryVariant" />
+        </shape>
+    </item>
+
+    <!-- Normal state -->
+    <item>
+        <shape android:shape="oval">
+            <gradient android:type="linear" android:angle="270" android:startColor="@color/button_gradient_start" android:endColor="@color/button_gradient_end" />
+            <size android:width="200dp" android:height="200dp" />
+            <corners android:radius="100dp" />
+            <solid android:color="@color/button_gradient_start" />
+        </shape>
+    </item>
+
+</selector>

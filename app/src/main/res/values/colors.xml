@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modern palette -->
+    <color name="primary">#1A237E</color> <!-- Deep Blue -->
+    <color name="primaryVariant">#3949AB</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="secondary">#00B8D4</color> <!-- Teal Accent -->
+    <color name="secondaryVariant">#00838F</color>
+    <color name="onSecondary">#FFFFFF</color>
+    <color name="background">#F5F7FA</color> <!-- Soft Gray -->
+    <color name="surface">#FFFFFF</color>
+    <color name="onSurface">#222B45</color>
+    <color name="outline">#E0E0E0</color>
+    <color name="button_gradient_start">#00B8D4</color>
+    <color name="button_gradient_end">#1A237E</color>
+    <color name="shadow">#22000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
